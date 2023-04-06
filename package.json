@@ -1,5 +1,5 @@
 {
-  "name": "anderson03AyA",
+  "name": "anderson03",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://github.com/anderson03AyA/goit-js-hw-08",
@@ -18,6 +18,8 @@
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
+    "@vimeo/player": "^2.18.0",
+    "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
     "simplelightbox": "^2.13.0"
   },
